@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AndroidFrontendCxf/res/layout/activity_saludo.xml&apos; to &apos;activity_hola_mundo.xml&apos;" description="Rename resource &apos;activity_saludo.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/activity_saludo.xml" name="activity_hola_mundo.xml" stamp="1363484088476" updateReferences="true"/>
+</session>

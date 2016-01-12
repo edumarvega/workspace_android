@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/vademecum/src/main/java/ar/com/conexia/modelo
+END
+DonwloderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/vademecum/src/main/java/ar/com/conexia/modelo/DonwloderTask.java
+END
+SchedulerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/vademecum/src/main/java/ar/com/conexia/modelo/SchedulerTask.java
+END
+Mail.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/vademecum/src/main/java/ar/com/conexia/modelo/Mail.java
+END
+SchedulerJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/vademecum/src/main/java/ar/com/conexia/modelo/SchedulerJob.java
+END
+DownloaderJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/vademecum/src/main/java/ar/com/conexia/modelo/DownloaderJob.java
+END

@@ -1,0 +1,13 @@
+INDEX VERSION 1.126
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1618450832.index
+\vademecum\src\main\resources
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1104728375.index
+\vademecum\src\main\resources
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1402436448.index
+\vademecum\src\main\resources
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4146099190.index
+\vademecum\src\main\resources
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3499925820.index
+\cxfandroid\src\main\java
+C:\workspace_android\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\317701596.index
+\struts2file\src\test\java

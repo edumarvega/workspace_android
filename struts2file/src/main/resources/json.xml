@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"       
+          "http://struts.apache.org/dtds/struts-2.0.dtd">
+<!-- 
+  - This file is included by the struts.xml file as an example
+  - of how to break up the configuration file into multiple files.
+-->
+<struts>
+   <package name="json" namespace="/jsonexample" extends="json-default">
+   	 <action name="getJSONResult" class="struts2file.json.JsonDataAction">
+    	  
+   	     <!-- devuelve todos los objetos q tengan getters ej: objeto.value {"saludoString":"hola json!"}  -->
+    	 <!--  <result type="json"/>  -->
+    	       
+    	      	
+    	      	     
+    	 <!-- solo devuelve el value "hola json!"  -->
+    	 <!--  <result type="json">
+    	      	<param name="root">saludoString</param>
+    	  </result> -->    
+    	  
+    	  <!-- se puede mandar al reques un String un Object o una Collection -->
+    	  <!-- <result type="json">
+    	      	<param name="root">saludosList</param>
+    	  </result> -->
+    	  
+    	  <!-- devuelve la lista sin filtro -->
+    	  <result type="json">
+    	      	<param name="root">programas</param>
+    	  </result>
+    	  
+    	  <!-- devuelve la lista filtrada -->
+    	  <result type="json">
+    	      	<param name="root">programasResult</param>
+    	  </result>
+
+    </action>
+ </package>
+</struts>

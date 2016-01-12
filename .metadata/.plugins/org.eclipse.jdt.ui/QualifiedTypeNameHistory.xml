@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.holausuario.R.id"/>
+<fullyQualifiedTypeName name="com.example.holausuario.R.layout"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="ar.com.osde.activity.MainActivity"/>
+<fullyQualifiedTypeName name="ar.com.osde.activity.SaludoActivity"/>
+<fullyQualifiedTypeName name="ar.com.osde.activity.R.id"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="Persona"/>
+<fullyQualifiedTypeName name="ar.com.osde.model.Persona"/>
+<fullyQualifiedTypeName name="ar.com.osde.service.HolaMundo"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="ar.com.frontend.cxf.R"/>
+<fullyQualifiedTypeName name="ar.com.androidfrontendcxf.activity.R"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="ar.com.androidfrontendcxf.activity.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="ar.com.androidfrontendcxf.activity.HolaMundoActivity"/>
+<fullyQualifiedTypeName name="ar.com.androidfrontendcxf.activity.R.layout"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapObject"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapSerializationEnvelope"/>
+<fullyQualifiedTypeName name="org.ksoap2.SoapEnvelope"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.ksoap2.transport.HttpsTransportSE"/>
+<fullyQualifiedTypeName name="org.ksoap2.serialization.SoapPrimitive"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.Action"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="ar.com.osde.test.Campania"/>
+<fullyQualifiedTypeName name="java.text.MessageFormat"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="struts2file.example.Practica"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.apache.struts2.ServletActionContext"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

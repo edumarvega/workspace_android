@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">FrontendCxf</string>
+    <string name="title_hola_mundo_activity">Respuesta saludo</string>
+    <string name="saludo">Hello world!</string>
+    <string name="apellido">Apellido:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="saludar">Saludar</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

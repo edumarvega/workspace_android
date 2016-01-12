@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"       
+          "http://struts.apache.org/dtds/struts-2.0.dtd">
+<!-- 
+  - This file is included by the struts.xml file as an example
+  - of how to break up the configuration file into multiple files.
+-->
+<struts>
+  <package name="example" namespace="/example" extends="struts-default,json-default">
+    <action name="HelloWorld" class="struts2file.example.HelloWorld">
+      <result>/example/HelloWorld.jsp</result>
+    </action>
+
+    <action name="Login_*" method="{1}" class="struts2file.example.Login">
+      <result name="input">/example/Login.jsp</result>
+      <result type="redirectAction">Menu</result>
+    </action>
+
+    <action name="FileOsde"  class="struts2file.example.FileOsde">
+    	<result>/example/fileupload.jsp</result>
+    </action>	
+   <action name="FileOsdeUpload" class="struts2file.example.FileOsdeUpload">
+     	<!-- <interceptor-ref name="exception"/>
+        <interceptor-ref name="i18n"/>
+        <interceptor-ref name="defaultStack"/>
+       	<interceptor-ref name="fileUpload">
+            <param name="maximumSize">500000</param>
+        </interceptor-ref>  
+        <interceptor-ref name="params">
+            <param name="excludeParams">dojo\..*,^struts\..*</param>
+        </interceptor-ref>
+        <interceptor-ref name="validation">
+            <param name="excludeMethods">input,back,cancel,browse</param>
+        </interceptor-ref>
+        <interceptor-ref name="workflow">
+            <param name="excludeMethods">input,back,cancel,browse</param>
+        </interceptor-ref> -->
+       
+        <result name="input">/example/fileupload.jsp</result>
+ 		<result name="success">/example/result.jsp</result>
+ 		     
+    </action>
+    
+   <action name="autocomplete"  class="struts2file.example.AutocompleteAction">
+    	<result>/example/autocomplete.jsp</result>
+    </action>	
+    
+   <!-- Add additional "example" package actions here. -->
+  </package>
+</struts>
